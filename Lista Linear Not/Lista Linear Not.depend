@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534899452 source:c:\users\lab6\desktop\lista linear not\main.cpp
+	<iostream>
+	"ListaLinear.h"
+	"Triangulo.h"
+
+1534899311 c:\users\lab6\desktop\lista linear not\listalinear.h
+	"Triangulo.h"
+
+1534899467 c:\users\lab6\desktop\lista linear not\triangulo.h
+
